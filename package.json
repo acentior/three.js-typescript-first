@@ -1,0 +1,8 @@
+{
+  "name": "three.js-typescript-first",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/acentior/three.js-typescript-first.git",
+  "author": "acentior <acentior@outlook.com>",
+  "license": "MIT"
+}
